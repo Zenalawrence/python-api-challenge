@@ -1,8 +1,9 @@
 # python-api-challenge
 
-References for code used in this challenge
+References for code used in this challenge:
+
 Weather API
-[url reference](https://openweathermap.org/current#name)
+https://openweathermap.org/current#name
 
 matplotlib scatter plot guide
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
