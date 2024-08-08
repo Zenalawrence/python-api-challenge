@@ -2,9 +2,9 @@
 
 ## WeatherPy
 
-==Python requests==, ==APIs==, and ==JSON traversals== were used to answer the weather question: "What's the weather like as we approach the equator?"
+Python requests, APIs, and JSON traversals were used to answer the weather question: "What's the weather like as we approach the equator?"
 
-# Summary
+### Summary
 A sample set of 500 cities were randomly selected from a list using citipy python library.
 
 **Latitude vs. Temperature:**
@@ -26,7 +26,7 @@ Wind speeds are mostly below 6 m/s in the northern hemisphere as we move closer 
 
 ## VacationPy
 
-==GeoViews Python library== and ==Geoapigy API== was used to generate a list of Hotels in my list of different countries that meet my specific weather requirements.  These requirements were based on the weather conditions in these countries.
+GeoViews Python library and Geoapigy API was used to generate a list of Hotels in my list of different countries that meet my specific weather requirements.  These requirements were based on the weather conditions in these countries.
 
 
 ## References for code used in this challenge:
@@ -36,7 +36,9 @@ https://openweathermap.org/current#name
 
 **matplotlib scatter plot guide**
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+
 **axis grid document**
 https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.grid.html
+
 **linregress document**
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
